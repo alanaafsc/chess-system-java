@@ -40,6 +40,9 @@ Os seguintes passos foram seguidos:
         - Layers pattern
 8. Little improvement in board printing
 9. Moving pieces
+    - OOP Topics:
+        - Exceptions
+        - Encapsulation
 10. Handling exceptions and clearing screen
 11. Possible moves of a piece
 12. Implementing possible moves of Rook
