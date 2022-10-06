@@ -28,6 +28,9 @@ Os seguintes passos foram seguidos:
         - Overriding
         - Polymorphism (ToString)
 6. BoardException and defensive programming
+    - OOP Topics:
+        - Exceptions
+        - Constructors (a string must be informed to the exception)
 7. ChessException and ChessPosition
 8. Little improvement in board printing
 9. Moving pieces
