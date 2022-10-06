@@ -53,6 +53,8 @@ Os seguintes passos foram seguidos:
         - Polymorphism
         - Encapsulation / access modifiers [protected] o Exceptions
 13. Printing possible moves
+    - OOP Topics:
+        - Overloading
 14. Implementing possible moves of King
 15. Switching player each turn
 16. Handling captured pieces
