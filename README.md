@@ -49,6 +49,9 @@ Os seguintes passos foram seguidos:
         - Abstract method / class
         - Exceptions
 12. Implementing possible moves of Rook
+    - OOP Topics:
+        - Polymorphism
+        - Encapsulation / access modifiers [protected] o Exceptions
 13. Printing possible moves
 14. Implementing possible moves of King
 15. Switching player each turn
