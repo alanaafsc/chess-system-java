@@ -32,6 +32,12 @@ Os seguintes passos foram seguidos:
         - Exceptions
         - Constructors (a string must be informed to the exception)
 7. ChessException and ChessPosition
+    - OOP Topics:
+        - Exceptions
+        - Encapsulation
+        - Constructors (a string must be informed to the exception) o Overriding
+        - Static members
+        - Layers pattern
 8. Little improvement in board printing
 9. Moving pieces
 10. Handling exceptions and clearing screen
