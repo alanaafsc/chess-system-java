@@ -56,6 +56,9 @@ Os seguintes passos foram seguidos:
     - OOP Topics:
         - Overloading
 14. Implementing possible moves of King
+    - OOP Topics:
+        - Encapsulation
+        - Polymorphism
 15. Switching player each turn
 16. Handling captured pieces
 17. Check logic
