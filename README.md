@@ -45,6 +45,9 @@ Os seguintes passos foram seguidos:
         - Encapsulation
 10. Handling exceptions and clearing screen
 11. Possible moves of a piece
+    - OOP Topics:
+        - Abstract method / class
+        - Exceptions
 12. Implementing possible moves of Rook
 13. Printing possible moves
 14. Implementing possible moves of King
