@@ -60,6 +60,9 @@ Os seguintes passos foram seguidos:
         - Encapsulation
         - Polymorphism
 15. Switching player each turn
+    - OOP Topics:
+        - Encapsulation
+        - Exceptions
 16. Handling captured pieces
 17. Check logic
 18. Checkmate logic
