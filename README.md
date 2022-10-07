@@ -64,6 +64,11 @@ Os seguintes passos foram seguidos:
         - Encapsulation
         - Exceptions
 16. Handling captured pieces
+    - OOP Topics:
+        - Encapsulation
+        - Constructors
+    - Data Structures Topics:
+        - List
 17. Check logic
 18. Checkmate logic
 19. Piece move count
