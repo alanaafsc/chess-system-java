@@ -72,10 +72,28 @@ Os seguintes passos foram seguidos:
 17. Check logic
 18. Checkmate logic
 19. Piece move count
+    - OOP Topics:
+        - Encapsulation
 20. Pawn
+    - OOP Topics:
+        - Encapsulation 
+        - Inheritance
+        - Polymorphism
 21. Bishop
+    - OOP Topics:
+        - Encapsulation 
+        - Inheritance
+        - Polymorphism
 22. Knight
+    - OOP Topics:
+        - Encapsulation 
+        - Inheritance
+        - Polymorphism
 23. Queen
+    - OOP Topics:
+        - Encapsulation 
+        - Inheritance
+        - Polymorphism
 24. Special move - Castling
 25. Special move - En Passant
 26. Special move - Promotion
