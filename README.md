@@ -1,6 +1,9 @@
 # Chess System - Java
 Apply the knowledge learned so far in the Java course of Nélio Alves for the construction of a project Chess Game System.
 
+Course: <a href ="https://www.udemy.com/course/java-curso-completo/"> Java COMPLETO Programação Orientada a Objetos +Projetos</a>
+
+
 The following steps were followed: 
 1. Creating project and git repository
 2. First class: Position
