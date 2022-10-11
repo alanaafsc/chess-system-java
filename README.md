@@ -1,7 +1,7 @@
 # Chess System - Java
-Aplicar os conhecimentos aprendidos até o momento no curso de Java de Nélio Alves para a construção de um projeto Sistema jogo de Xadrez.
+Apply the knowledge learned so far in the Java course of Nélio Alves for the construction of a project Chess Game System.
 
-Os seguintes passos foram seguidos: 
+The following steps were followed: 
 1. Creating project and git repository
 2. First class: Position
     - OOP Topics
